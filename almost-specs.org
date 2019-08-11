@@ -1,0 +1,26 @@
+* wwic
+
+- =burgar= and =borgar= form blocks
+- =anime= as function keyword
+- number of arguments: =anime name(5) burgar=
+- =and= for multiple arguments
+- everything as string
+- things instead of classes
+- =my= is this reference
+- =_= for access accessing thins on things
+- =fetish= declares variable (const)
+- =foot fetish= declares variable (mut)
+- =fortnite= for for loops
+- =yoink= as include
+- =yeet= prints
+- =math= library has addition etc
+- =FF= is single line comment
+- =FFS ... pain= is mlc
+- =.= ends statement (optional, autocloses open parenthesis)
+- =if then else fi= becomes =big then large borgar=
+- =return value= vs =return shit error=
+- =notnot= for testing against stuff
+  - special case is =notnot shit=
+- =""= and ="true"=, but technically anything goes
+- =;= as field seperator in thingstrings
+- =yank= to get the next argument
